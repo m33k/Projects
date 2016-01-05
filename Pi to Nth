@@ -3,10 +3,9 @@ Programmer - m33k
 Date - 1/5/2016
 Description - Program Asks user to enter a number then generates the decimal place of Pi
 Notes - 
-Psuedo Code -
+Pseudo Code - Please enter $num. You entered $num. Print up to $num in pi. Return 0;
 */
 
 #include <stdio.h>
-
 
 
